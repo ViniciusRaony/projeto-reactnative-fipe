@@ -22,7 +22,7 @@ Projeto para consumir a API Tabela FIPE ```https://deividfortuna.github.io/fipe/
 
 - Entre no diretório do projeto: 
 
-  ```cd projeto-reactnative-fipe``
+  ```cd projeto-reactnative-fipe```
 
 - Instale as dependências do projeto:
 
