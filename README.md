@@ -14,7 +14,7 @@ Projeto para consumir a API Tabela FIPE ```https://deividfortuna.github.io/fipe/
 - TODO.
 
 
-## 💻 Como executar o Backend
+## 💻 Como executar o Frontend
 
 - Clone esse repositório:
 
