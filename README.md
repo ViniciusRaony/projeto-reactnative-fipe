@@ -54,3 +54,8 @@ Projeto para consumir a API Tabela FIPE ```https://deividfortuna.github.io/fipe/
 - [Documentação React Native: https://reactnative.dev/docs/getting-started](https://reactnative.dev/docs/getting-started)
 - [Documentação Expo Go: https://docs.expo.dev/get-started/expo-go/](https://docs.expo.dev/get-started/expo-go/)
 
+<br>
+<br>
+<p align="center">
+  <img src="https://github.com/ViniciusRaony/projeto-reactnative-fipe/assets/100242220/860d934d-d8f6-4ea7-a603-6c8461d99d79" alt="image">
+</p>
