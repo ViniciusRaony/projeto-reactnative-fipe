@@ -28,9 +28,13 @@ Projeto para consumir a API Tabela FIPE ```https://deividfortuna.github.io/fipe/
 
   ```$ npm install```
 
-- TODO:
+- Instale as dependências do projeto:
+
+  ```$ npx expo start```
+
+- Acessar web-mode:
  
-  ```TODO```
+  ```pressione w```
   
   
 ## 🚉 Rotas consumidas da API
