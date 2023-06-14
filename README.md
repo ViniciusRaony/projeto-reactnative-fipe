@@ -1,8 +1,6 @@
-<h1 align="center">Projeto Beegu - App de Compartilhamento de Carona </h1>
+<h1 align="center">Projeto React Native - TABELA FIPE</h1>
 
-<p align="center">
-  <img src="https://github.com/ViniciusRaony/projeto-reactnative-fipe/assets/100242220/a14ed026-86c9-449a-95fa-41ed9633e581" width="300">
-</p>
+Projeto para consumir a API Tabela FIPE ```https://deividfortuna.github.io/fipe/```
 
 ## 🛠️ Ferramentas e Tecnologias
 
@@ -20,34 +18,46 @@
 
 - Clone esse repositório:
 
-  ```$ https://github.com/ViniciusRaony/projeto-reactnative-fipe.git projeto-react-native-beegu```
+  ```$ git clone https://github.com/ViniciusRaony/projeto-reactnative-fipe.git projeto-reactnative-fipe```
 
 - Entre no diretório do projeto: 
 
-  ```cd projeto-react-native-beegu```
+  ```cd projeto-reactnative-fipe```
 
 - Instale as dependências do projeto:
 
   ```$ npm install```
 
-- Iniciar app:
+- Instale as dependências do projeto:
 
   ```$ npx expo start```
 
-- Acessar mobile (iOS ou Android):
+- Acessar web-mode:
  
-  ```Leia QR-CODE```
+  ```pressione w```
   
   
 ## 🚉 Rotas consumidas da API
 
-- Repositório da API NodeJs ```https://github.com/ViniciusRaony/app-beegu-node.git```
+- Rota ```fipe/api/v1/carros/marcas``` (método ```GET```): Listar marcas de carros
 
-- Rota ```/api/v1/cadastro/``` (método ```POST```): Cadastro usuário
+- Rota ```fipe/api/v1/carros/marcas/{codigo-marca}/modelos``` (método ```GET```): Lista modelos da marca de carro
+
+- Rota ```fipe/api/v1/carros/marcas/{codigo-marca}/modelos/{codigo-modelo}/anos``` (método ```GET```): Lista ano fabricação carro
+
+- Rota ```fipe/api/v1/carros/marcas/{codigo-marca}/modelos/{codigo-modelo}/anos/{codigo-ano}``` (método ```GET```): Lista ano fabricação carro
 
 
 ### Links úteis
 
+- [Documentação API Tabela FIPE: https://deividfortuna.github.io/fipe/](https://deividfortuna.github.io/fipe/)
 - [Documentação React Native: https://reactnative.dev/docs/getting-started](https://reactnative.dev/docs/getting-started)
 - [Documentação Expo Go: https://docs.expo.dev/get-started/expo-go/](https://docs.expo.dev/get-started/expo-go/)
+
+<br>
+<br>
+<p align="center">
+  <img src="https://github.com/ViniciusRaony/projeto-reactnative-fipe/assets/100242220/860d934d-d8f6-4ea7-a603-6c8461d99d79" alt="image">
+</p>
+
 
